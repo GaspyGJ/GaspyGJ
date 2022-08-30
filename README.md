@@ -22,10 +22,10 @@ Busco poder trabajar en el ámbito del desarrollo tanto **frontend** como **back
 
 ## 📫 Contactame
 
-* Email : gaspygj@gmail.com
-* WhatsApp : +54 342-486-3355
-* Instagram : gaspygj
-* pag web : https://gaspar-jullier-portfolio.web.app/
+* 📧 Email : gaspygj@gmail.com
+* 📱 WhatsApp : +54 342-486-3355
+* 📷 Instagram : gaspygj
+* 👨‍💻 mi pág web : https://gaspar-jullier-portfolio.web.app/
 
-<h2 style="text-align: center"> Mis Proyectos 👇 👇 👇 </h2> 
+## 👇 Mis Proyectos 👇
 
