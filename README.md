@@ -13,10 +13,10 @@ Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy. Soy estudiante uni
 ## 🛠 Mis Habilidades
 
 - 🌐 &nbsp;
-  ![HTML5]
-  ![CSS]
-  ![JavaScript]
-  ![Bootstrap]
+  ![HTML5]()
+  ![CSS]()
+  ![JavaScript]()
+  ![Bootstrap]()
 - 💻 &nbsp;
 - ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
