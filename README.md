@@ -10,7 +10,7 @@ Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años, ac
 
 * A qué me dedico? ➡️ Soy estudiante universitario de ingeniería en sistemas, autodidacta en el desarrollo de tecnologías web<br><br>
 
-* Qué busco para mi futuro? ➡️ Poder trabajar en el ámbito del desarrollo tanto **frontend** como **backend** implementando app y sistemas para usuarios finales.<br><br>
+* Dónde me veo en el futuro? ➡️ Trabajando en el ámbito del desarrollo tanto **frontend** como **backend** implementando app y sistemas para usuarios finales.<br><br>
 
 ## 🛠 Mis Habilidades
 
