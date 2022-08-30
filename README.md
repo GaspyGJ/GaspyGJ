@@ -14,11 +14,11 @@ Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años, ac
 
 ## 🛠 Mis Habilidades
 
-* 💻 &nbsp; `C++` | `Java`
-* 🌐 &nbsp; Angular | HTML | CSS | JavaScript | Bootstrap 
-* 🛢 &nbsp; MySQL | PostgreSQL | SQLite | Firebase | Xampp 
-* 🔧 &nbsp; Git | Visual Studio code | QT creator | IntelliJ | NetBeans | Eclipse 
-* 🖥 &nbsp; Windos | Linux
+* 💻 &nbsp; `C++`  `Java`
+* 🌐 &nbsp; `Angular`  `HTML`  `CSS`  `JavaScript`  `Bootstrap` 
+* 🛢 &nbsp; `MySQL` `PostgreSQL` `SQLite` `Firebase` `Xampp` 
+* 🔧 &nbsp; `Git` `Visual Studio code` `QT creator` `IntelliJ` `NetBeans` `Eclipse` 
+* 🖥 &nbsp; `Windos` `Linux`
 
 ## 📫 Contactame
 
