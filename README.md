@@ -27,5 +27,5 @@ Busco poder trabajar en el ámbito del desarrollo tanto **frontend** como **back
 * 📷 Instagram : gaspygj
 * 👨‍💻 mi pág web : https://gaspar-jullier-portfolio.web.app/
 
-## 👇 Mis Proyectos 👇
+<h2 align="center">👇 Mis Proyectos 👇</h2> 
 
