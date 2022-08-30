@@ -6,7 +6,7 @@
 
 ## 🔎 Sobre Mi
 
-Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años, actualmente vivo en Argentina y soy un apasionado por la programación.<br><br>
+Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años, actualmente vivo en Argentina y soy un apasionado por la ✨Programación✨.<br><br>
 
 * A qué me dedico? ➡️ Soy estudiante universitario de ingeniería en sistemas, autodidacta en el desarrollo de tecnologías web<br><br>
 
