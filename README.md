@@ -20,6 +20,7 @@ Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy. Soy estudiante uni
 - 💻 &nbsp;
 - ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
