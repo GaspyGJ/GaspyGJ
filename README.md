@@ -6,9 +6,9 @@
 
 ## 🔎 Sobre Mi
 
-Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años y actualmente vivo en Argentina.
-Soy estudiante universitario de ingeniería en sistemas con fuertes bases de programación, autodidacta en el desarrollo de tecnologías web.
-Busco poder trabajar en el ámbito del desarrollo tanto **frontend** como **backend** implementando app y sistemas para usuarios finales.
+Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años y actualmente vivo en Argentina.<br>
+Soy estudiante universitario de ingeniería en sistemas con fuertes bases de programación, autodidacta en el desarrollo de tecnologías web.<br>
+Busco poder trabajar en el ámbito del desarrollo tanto **frontend** como **backend** implementando app y sistemas para usuarios finales.<br>
 
 ## 🛠 Mis Habilidades
 
