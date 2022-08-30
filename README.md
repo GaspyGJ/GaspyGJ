@@ -20,12 +20,12 @@ Busco poder trabajar en el ámbito del desarrollo tanto **frontend** como **back
 * 🔧 &nbsp; Git | Visual Studio code | QT creator | IntelliJ | NetBeans | Eclipse 
 * 🖥 &nbsp; Windos | Linux
 
-## Contactame
+## 📫 Contactame
 
 * Email : gaspygj@gmail.com
 * WhatsApp : +54 342-486-3355
 * Instagram : gaspygj
 * pag web : https://gaspar-jullier-portfolio.web.app/
 
-#### Mis Proyectos 👇 👇 👇
+<h2 style="text-align: center"> Mis Proyectos 👇 👇 👇 </h2> 
 
