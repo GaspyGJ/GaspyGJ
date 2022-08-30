@@ -18,7 +18,7 @@ Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy. Soy estudiante uni
   ![JavaScript]()
   ![Bootstrap]()
 - 💻 &nbsp;
-- ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- ![C++](https://es.m.wikipedia.org/wiki/Archivo:ISO_C%2B%2B_Logo.svg)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 - 🛢 &nbsp;
