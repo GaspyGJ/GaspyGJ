@@ -6,7 +6,7 @@
 
 ## 🔎 Sobre Mi
 
-Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años, actualmente vivo en Argentina. Me interesa el dessarrollo de software y la administracion de base de datos, pero sobre todo... me gusta pasar horas buscando porque el codigo no compila✨✨.<br><br>
+Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años, actualmente vivo en Argentina. Mi interés se centra en el dessarrollo de software y la administracion de base de datos, pero sobre todo... me gusta pasar horas buscando porque el codigo no compila✨✨.<br><br>
 
 * A qué me dedico? ➡️ Soy estudiante universitario de ingeniería en sistemas, autodidacta en el desarrollo de tecnologías web<br><br>
 
@@ -16,16 +16,15 @@ Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años, ac
 
 * 💻 &nbsp; `C++`  `Java` 
 * 🌐 &nbsp; `Angular`  `HTML`  `CSS`  `JavaScript` `TypeScript` `Bootstrap` 
-* 🛢 &nbsp; `SQL` `NoSQL` `MySQL` `SQLite` `Firebase` `Xampp` 
-* 🔧 &nbsp; `Git` `Visual Studio code` `QT creator` `IntelliJ` `NetBeans` `Eclipse` 
+* 🛢 &nbsp; `SQL` `NoSQL` `MySQL` `PostreSQL` `SQLite`
+* 🔧 &nbsp; `Git` `Visual Studio code` `QT creator` `IntelliJ` `NetBeans` `Eclipse` `Firebase` `Xampp` 
 * 🖥 &nbsp; `Windos` `Linux` `Comandos Bash`
 
 ## 📫 Contactame
 
 * 📧 &nbsp; Email : gaspygj@gmail.com
 * 📱 &nbsp; WhatsApp : +54 342-486-3355
-* 📷 &nbsp; Instagram : gaspygj
-* 👨‍💻 &nbsp; mi pág web : https://gaspar-jullier-portfolio.web.app/
+* 👨‍💻 &nbsp; Mi pág web : https://gaspar-jullier-portfolio.web.app/
 
 <hr/>
 
