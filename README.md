@@ -24,7 +24,7 @@ Hola, mi nombre es Gaspar Jullier pero me pueden decir Gaspy, tengo 21 años, ac
 
 * 📧 &nbsp; Email : gaspygj@gmail.com
 * 📱 &nbsp; WhatsApp : +54 342-486-3355
-* 👨‍💻 &nbsp; Mi pág web : https://gaspar-jullier-portfolio.web.app/
+* 👨‍💻 &nbsp; Mi pág web : https://gaspar-jullier.web.app/
 
 <hr/>
 
