@@ -24,7 +24,7 @@ Hola, mi nombre es Gaspar Jullier, tengo 22 años y vivo en Argentina. Mi inter�
 
 * 📧 &nbsp; Email: gaspygj@gmail.com
 * 📱 &nbsp; WhatsApp: +54 342-486-3355
-* 👨‍💻 &nbsp; Mi sitio web: [Clcik aquí](https://gasparjullier.up.railway.app/)
+* 👨‍💻 &nbsp; Mi sitio web: [Click aquí](https://gasparjullier.up.railway.app/)
 
 <hr/>
 
