@@ -6,7 +6,7 @@
 
 ## 🔎 Sobre mi
 
-Hola, mi nombre es Gaspar Jullier, tengo 21 años y vivo en Argentina. Mi interés se centra en el desarrollo de software, pero sobre todo me gusta pasar horas y horas buscando por qué el código no compila✨<br><br>
+Hola, mi nombre es Gaspar Jullier, tengo 22 años y vivo en Argentina. Mi interés se centra en el desarrollo de software, pero sobre todo me gusta pasar horas y horas buscando por qué el código no compila✨<br><br>
 
 * ¿A qué me dedico? ➡️ Soy estudiante universitario de ingeniería en sistemas, autodidacta en el desarrollo de tecnologías web.<br><br>
 
