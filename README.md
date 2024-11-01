@@ -4,20 +4,12 @@
 
 <hr/>
 
-## 🔎 Sobre mi
-
-Hola, mi nombre es Gaspar Jullier, tengo 22 años y vivo en Argentina. Mi interés se centra en el desarrollo de software, pero sobre todo me gusta pasar horas y horas buscando por qué el código no compila✨<br><br>
-
-* ¿A qué me dedico? ➡️ Soy estudiante universitario de ingeniería en sistemas, autodidacta en el desarrollo de tecnologías web.<br><br>
-
-* ¿Mis objetivos? ➡️ Busco poder desarrollarme en el ámbito de la programación para convertirme en un muy buen profesional.<br><br>
-
 ## 🛠 Mis habilidades
 
 * 💻 &nbsp; `C++`  `Java` 
-* 🌐 &nbsp; `Angular` `React` `HTML`  `CSS`  `JavaScript` `TypeScript` `Bootstrap` 
+* 🌐 &nbsp; `Angular` `React` `NodeJs` `HTML`  `CSS`  `JavaScript` `TypeScript` `Bootstrap` 
 * 🛢 &nbsp; `SQL` `NoSQL` `MySQL` `PostreSQL` `SQLite`
-* 🔧 &nbsp; `Git` `Postman` `Xampp` `Visual Studio code` `IntelliJ` `QT creator` `NetBeans` `Eclipse` `Firebase` 
+* 🔧 &nbsp; `Git` `Postman` `Firebase` `Sentry` `Intercom` `GPT` 
 * 🖥 &nbsp; `Windos` `Linux`
 
 ## 📫 Contactame
