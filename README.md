@@ -16,8 +16,8 @@
 
 * 📧 &nbsp; Email: gaspygj@gmail.com
 * 📱 &nbsp; WhatsApp: +54 342-486-3355
-* 👨‍💻 &nbsp; Mi sitio web: [Click aquí](https://gasparjullier.up.railway.app/)
+* 👨‍💻 &nbsp; Mi sitio web: [Click aquí](https://gaspygj.github.io/)
 
 <hr/>
 
-<h2 align="center">👇 Mis proyectos 👇</h2> 
+<h2 align="center">👇 Mis proyectos personales 👇</h2> 
